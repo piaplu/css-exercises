@@ -1,0 +1,20 @@
+.oddnumber{
+    background-color: rgb(251,163,163);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(132,251,132);
+    /* Font-size here can be deleted and .special class added to the html element, since it's the same font-size */
+    font-size: 24px; 
+    font-weight: bold;
+}
